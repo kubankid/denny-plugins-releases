@@ -2,10 +2,10 @@
 
 Built plugins only (no source). Pick your platform:
 
-- **Windows:** [Denny-Plugins-Windows.zip](https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-Windows.zip)
+- **Windows:** [Denny-Plugins-Windows.zip](https://github.com/kubankid/denny-plugins-releases/releases/download/latest/Denny-Plugins-Windows.zip)
   - unzip, double-click `install-windows.bat` (asks for admin, copies into `C:\Program Files\Common Files\VST3`)
   - FL Studio: Options > Manage plugins > tick "Rescan previously verified plugins" > Start scan
-- **macOS:** [Denny-Plugins-macOS.zip](https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-macOS.zip)
+- **macOS:** [Denny-Plugins-macOS.zip](https://github.com/kubankid/denny-plugins-releases/releases/download/latest/Denny-Plugins-macOS.zip)
   - `.vst3` -> `~/Library/Audio/Plug-Ins/VST3/`, `.component` -> `~/Library/Audio/Plug-Ins/Components/`, then rescan in FL
 
 | Plugin | Type in FL | What it does |
