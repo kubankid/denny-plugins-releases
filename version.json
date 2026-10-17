@@ -1,0 +1,24 @@
+{
+  "wxrst": {
+    "version": "1.2.0",
+    "notes": "",
+    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/wxrst-v1.2.0/WXRST-macOS.zip",
+    "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/wxrst-v1.2.0/WXRST-Windows.zip"
+  },
+  "xtract": {
+    "version": "1.1.0",
+    "notes": "",
+    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/xtract-v1.1.0/WXRSTXTRACT-macOS.zip",
+    "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/xtract-v1.1.0/WXRSTXTRACT-Windows.zip"
+  },
+  "keyfinder": {
+    "version": "1.0.1",
+    "notes": "",
+    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/keyfinder-v1.0.1/DennyKeyFinder-macOS.zip",
+    "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/keyfinder-v1.0.1/DennyKeyFinder-Windows.zip"
+  },
+  "bundle": {
+    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-macOS.zip",
+    "win": "https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-Windows.zip"
+  }
+}
