@@ -4,14 +4,14 @@
     "notes": "SAMPLER page with interactive sample editor (playhead, drag START/END, highlight, CROP / DELETE / UNDO / REDO), chops on",
     "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/wxrst-v1.3.0/WXRST-macOS.zip",
     "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/wxrst-v1.3.0/WXRST-Windows.zip",
-    "winVersion": "1.2.0"
+    "winVersion": "1.3.0"
   },
   "xtract": {
     "version": "1.2.0",
     "notes": "Hybrid note tracker (model attacks + spectral chord tones/durations), NOTES: ALL / LEAD / CHORDS / MONO voicings, SNAP 1",
     "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/xtract-v1.2.0/WXRSTXTRACT-macOS.zip",
     "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/xtract-v1.2.0/WXRSTXTRACT-Windows.zip",
-    "winVersion": "1.1.0"
+    "winVersion": "1.2.0"
   },
   "keyfinder": {
     "version": "1.0.1",
@@ -21,7 +21,7 @@
     "winVersion": "1.0.1"
   },
   "bundle": {
-    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-macOS.zip",
-    "win": "https://github.com/kubankid/denny-plugins-releases/releases/latest/download/Denny-Plugins-Windows.zip"
+    "mac": "https://github.com/kubankid/denny-plugins-releases/releases/download/latest/Denny-Plugins-macOS.zip",
+    "win": "https://github.com/kubankid/denny-plugins-releases/releases/download/latest/Denny-Plugins-Windows.zip"
   }
 }
